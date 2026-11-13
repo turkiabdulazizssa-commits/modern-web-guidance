@@ -1,4 +1,4 @@
-<p align="center">
+5<p align="center">
   <img src="https://github.com/GoogleChrome/modern-web-guidance/raw/main/.github/img/modern-web-guidance.svg" alt="Modern Web Guidance Logo" width="150" />
 </p>
 
